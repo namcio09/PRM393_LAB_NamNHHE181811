@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Everyday Flutter",
+    "author": "Lena Tran",
+    "category": "Guide",
+    "minutesToRead": 15
+  },
+  {
+    "title": "Design Systems in Dart",
+    "author": "Marco Felix",
+    "category": "Reference",
+    "minutesToRead": 22
+  },
+  {
+    "title": "Widget Patterns",
+    "author": "Priya Anand",
+    "category": "Patterns",
+    "minutesToRead": 18
+  },
+  {
+    "title": "Offline-First Thinking",
+    "author": "Duke Luu",
+    "category": "Architecture",
+    "minutesToRead": 25
+  },
+  {
+    "title": "Local JSON Recipes",
+    "author": "Sora Lin",
+    "category": "How-to",
+    "minutesToRead": 12
+  }
+]
